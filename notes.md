@@ -32,7 +32,8 @@
 
 
 # Transmitter 
-
+* https://hobbyking.com/en_us/frsky-2-4ghz-accst-taranis-x9d-plus-and-x8r-combo-digital-telemetry-radio-system-mode-2.html ~ 200 comes with receiver, recommended model (eg https://www.reddit.com/r/multicopter/wiki/radio ) but not that pretty, can probably get a significantlly cheaper one
+* https://hobbyking.com/en_us/turnigy-9x-9ch-transmitter-w-module-8ch-receiver-mode-2-v2-firmware.html Turnigy, I think this is the one that Leighton had? ~80 with receiver 
 
 # Props
 * https://hobbyking.com/en_us/gemfan-glow-in-the-dark-propeller-5x3-x-cw-ccw-2pcs.html
