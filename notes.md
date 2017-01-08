@@ -40,13 +40,13 @@
 * 5x3 Glow in the Dark
 
 # Battery 
-
+* Turnigy 4S LiPo 1800mAh 
+* https://hobbyking.com/en_us/turnigy-1800mah-4s-40c-lipo-pack.html
 
 # Cables
-
-
 # ESCs
-
-
 # Motors
 
+# Links
+* https://oscarliang.com/qav-x-frame-review-build/
+* https://docs.google.com/spreadsheets/d/1Oxqs3uPZAA3inpV0qIIdvQBrXsHfVwJsnbQXHc7otLw/edit#gid=0
