@@ -47,7 +47,7 @@
 * Settled on the LUX flight controller 
 
 # Receiver 
-
+* Receiver often included with Transmitter, eg the ~$80 turnigy one has a receiver
 
 # Transmitter 
 * Random link https://oscarliang.com/choose-rc-transmitter-quadcopter/
@@ -72,6 +72,7 @@
 * http://www.getfpv.com/12v-step-down-voltage-regulator.html
 
 # Cables
+
 
 # ESCs
 * Need to be rated 22A+ to cope with the probable maximum draw from our motors
