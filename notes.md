@@ -72,6 +72,7 @@
 * http://www.getfpv.com/12v-step-down-voltage-regulator.html
 
 # Cables
+* https://oscarliang.com/wire-awg-chart-quadcopter-rc/
 
 
 # ESCs
